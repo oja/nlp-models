@@ -3,7 +3,7 @@ These are my reimplementations of various NLP models using [PyTorch](https://pyt
 
 ## Embeddings
 - Mikolov, et al., 2013. "Efficient Estimation of Word Representations in Vector Space". ([source code](embeddings/word2vec.ipynb))
-- Pennington, et al., 2014. "GloVe: Global Vectors for Word Representation".
+- Pennington, et al., 2014. "GloVe: Global Vectors for Word Representation". ([source code](embeddings/glove.ipynb))
 
 ## Language Models
 - Bengio, et al., 2003. "A Neural Probablistic Language Model". ([source code](language_models/bengio_2003.ipynb))
