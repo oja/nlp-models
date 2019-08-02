@@ -11,3 +11,4 @@ These are my reimplementations of various NLP models using [PyTorch](https://pyt
 ## Translation
 - Sutskever, et al., 2014. "Sequence to Sequence Learning with Neural Networks". ([source code](translation/seq2seq.ipynb))
 - Bahdanau, et al., 2014. "Neural Machine Translation by Jointly Learning to Align and Translate". ([source code](translation/seq2seq_attention.ipynb))
+- Vaswani, et al., 2017. "Attention Is All You Need". (work in progress, [source code](translation/transformer.ipynb))
